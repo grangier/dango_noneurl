@@ -1,2 +1,2 @@
 from django.template import add_to_builtins
-add_to_builtins('django_noneurl.templatetags.url')
+add_to_builtins('noneurl.templatetags.url')
